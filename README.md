@@ -10,4 +10,4 @@ Instructions:
 
 Hints:
 
-- Explore the session management mechanism using the provided user account.
+- Explore how the email change feature works.
